@@ -1,4 +1,4 @@
-package com.example.inika.simplecontentprovider;
+package com.example.devdas.simplecontentprovider;
 
 import org.junit.Test;
 
